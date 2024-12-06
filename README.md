@@ -3,6 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj" alt="suraj" /></a> </p>
 
+[![Credly Badge](https://images.credly.com/size/220x220/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png)](https://www.credly.com/badges/7ff2e514-7c59-42b6-bb9d-d419eff69207)
+
+
 - 📫 How to reach me **https://www.linkedin.com/in/suraj-rao-81b320224/**
 
 <h3 align="left">Connect with me:</h3>
