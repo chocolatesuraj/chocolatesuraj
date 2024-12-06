@@ -18,6 +18,9 @@
 <a href="https://www.credly.com/badges/80df817e-8430-4078-88de-95eca023af15">
   <img src="https://images.credly.com/size/680x680/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="Credly Badge" width="150">
 </a>
+<a href="https://www.hackerrank.com/certificates/e06fb2187f8f">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank Badge" width="150">
+</a>
 
 
 - 📫 How to reach me **https://www.linkedin.com/in/suraj-rao-81b320224/**
