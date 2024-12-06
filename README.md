@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Rao</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suraj" alt="suraj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chocolatesuraj" alt="suraj" /></a> </p>
 
 <a href="https://www.credly.com/badges/7ff2e514-7c59-42b6-bb9d-d419eff69207">
   <img src="https://images.credly.com/size/220x220/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" alt="Credly Badge" width="150">
