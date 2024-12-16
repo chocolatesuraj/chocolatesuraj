@@ -27,6 +27,9 @@
 <a href="https://www.coursera.org/account/accomplishments/verify/XUXNKCMNA828">
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=2&w=80&h=80" alt="HackerRank Badge" width="150">
 </a>
+<a href="https://leetcode.com/u/suraj___rao/">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 2024 50 Days Badge" width="150">
+</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chocolatesuraj" alt="suraj" /></a> </p>
 
