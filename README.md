@@ -35,6 +35,10 @@
 <a href="https://leetcode.com/u/suraj___rao/">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 2024 50 Days Badge" width="150">
 </a>
+<a href="https://leetcode.com/u/suraj___rao/">
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Leetcode 2025 50 Days Badge" width="150">
+</a>
+
 <h3 align="left">Kaggle Badges:</h3>
 <a href="">
   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F1488634%2F163e0f27360ae958da99dde2a68f7e00%2FBadge-46.svg?generation=1727468408101916&alt=media" width="50">
