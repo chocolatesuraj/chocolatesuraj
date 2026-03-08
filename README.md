@@ -10,19 +10,19 @@
   <img src="https://images.credly.com/size/680x680/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" alt="Credly Badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/7ff2e514-7c59-42b6-bb9d-d419eff69207">
-  <img src="https://images.credly.com/size/220x220/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="Credly Badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/5ee8650f-6c9b-4a51-8630-6dc17cc5f5fa">
-  <img src="https://images.credly.com/size/680x680/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="Credly Badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/4d581d04-2fe4-4899-ba64-d9c6c27ab4dd">
-  <img src="https://images.credly.com/size/680x680/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" alt="Credly Badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/75133a15-593d-4503-b218-8d300e8f3a9e">
-  <img src="https://images.credly.com/size/680x680/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="Credly Badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/80df817e-8430-4078-88de-95eca023af15">
-  <img src="https://images.credly.com/size/680x680/images/979e42e2-1d32-4d21-97ea-53d991ea50fb/image.png" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="Credly Badge" width="150">
 </a>
 <h3 align="left">Other Certifications:</h3>
 <a href="https://www.hackerrank.com/certificates/e06fb2187f8f">
