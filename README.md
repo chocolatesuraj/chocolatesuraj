@@ -7,7 +7,7 @@
 
 <h3 align="left">Amazon AWS Badges:</h3>
 <a href="https://www.credly.com/badges/62f14adb-9c9a-47ec-9630-f6d5918442ee">
-  <img src="https://images.credly.com/size/680x680/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" alt="Credly Badge" width="150">
 </a>
 <a href="https://www.credly.com/badges/7ff2e514-7c59-42b6-bb9d-d419eff69207">
   <img src="https://images.credly.com/size/220x220/images/6f135924-7645-4bd2-ab68-3bc0b49c7e27/image.png" alt="Credly Badge" width="150">
