@@ -7,29 +7,29 @@
 
 <h3 align="left">Amazon AWS Badges:</h3>
 <a href="https://www.credly.com/badges/62f14adb-9c9a-47ec-9630-f6d5918442ee">
-  <img src="https://images.credly.com/size/680x680/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/247efe36-9fa6-4209-ad56-0fd522283872/blob" alt="Credly Badge" width="100">
 </a>
 <a href="https://www.credly.com/badges/7ff2e514-7c59-42b6-bb9d-d419eff69207">
-  <img src="https://images.credly.com/size/680x680/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/a08cf90b-9838-4f6c-82bd-8db85fb89dd5/blob" alt="Credly Badge" width="100">
 </a>
 <a href="https://www.credly.com/badges/5ee8650f-6c9b-4a51-8630-6dc17cc5f5fa">
-  <img src="https://images.credly.com/size/680x680/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/3b1b42e6-dfc2-492b-90df-8058096cb93d/blob" alt="Credly Badge" width="100">
 </a>
 <a href="https://www.credly.com/badges/4d581d04-2fe4-4899-ba64-d9c6c27ab4dd">
-  <img src="https://images.credly.com/size/680x680/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/25108813-2dd7-45f7-8158-65689b8526b5/blob" alt="Credly Badge" width="100">
 </a>
 <a href="https://www.credly.com/badges/75133a15-593d-4503-b218-8d300e8f3a9e">
-  <img src="https://images.credly.com/size/680x680/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/7b08cc0e-064b-407d-b70e-323509c3e474/blob" alt="Credly Badge" width="100">
 </a>
 <a href="https://www.credly.com/badges/80df817e-8430-4078-88de-95eca023af15">
-  <img src="https://images.credly.com/size/680x680/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="Credly Badge" width="150">
+  <img src="https://images.credly.com/size/680x680/images/f5095707-7683-4886-940c-3e8e4a2085ca/blob" alt="Credly Badge" width="100">
 </a>
 <h3 align="left">Other Certifications:</h3>
 <a href="https://www.hackerrank.com/certificates/e06fb2187f8f">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank Badge" width="150">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank Badge" width="100">
 </a>
 <a href="https://www.coursera.org/account/accomplishments/verify/XUXNKCMNA828">
-  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=2&w=80&h=80" alt="HackerRank Badge" width="150">
+  <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=2&w=80&h=80" alt="HackerRank Badge" width="100">
 </a>
 <h3 align="left">Leetcode:</h3>
 <a href="https://leetcode.com/u/suraj___rao/">
