@@ -35,7 +35,7 @@
 </a>
 <h3 align="left">Other Certifications:</h3>
 <a href="https://www.hackerrank.com/certificates/e06fb2187f8f">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="HackerRank Badge" width="100">
+  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank Badge" width="100">
 </a>
 <a href="https://www.coursera.org/account/accomplishments/verify/XUXNKCMNA828">
   <img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=2&w=80&h=80" alt="HackerRank Badge" width="100">
