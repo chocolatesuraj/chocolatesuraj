@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Computer Science Engineer</h3>
 <a href="https://www.linkedin.com/in/suraj-rao-81b320224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
 <h3 align="left">Leetcode:</h3>
 <a href="https://leetcode.com/u/suraj___rao/">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="Leetcode 2024 50 Days Badge" width="150">
