@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Rao</h1>
 <h3 align="center">A passionate Computer Science Engineer</h3>
-<a align="center" href="https://www.linkedin.com/in/suraj-rao-81b320224/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/suraj-rao-81b320224/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!-- <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
