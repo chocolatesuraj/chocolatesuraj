@@ -13,6 +13,9 @@
 <a href="https://leetcode.com/u/suraj___rao/">
   <img src="https://assets.leetcode.com/static_assets/others/50.gif" width="150">
 </a>
+<a href="https://leetcode.com/u/suraj___rao/">
+  <img src="https://assets.leetcode.com/static_assets/others/100.gif" width="150">
+</a>
 
 <h3 align="left">Amazon AWS Badges:</h3>
 <a href="https://www.credly.com/badges/62f14adb-9c9a-47ec-9630-f6d5918442ee">
